@@ -135,14 +135,13 @@ This reactive approach ensures the UI always reflects the current application st
 Final Project:
 
 
-<img width="500" height="750" alt="Simulator Screenshot - iPhone 15 - 2025-09-18 at 19 06 03" src="https://github.com/user-attachments/assets/cc8ae193-4b40-4f55-ba6c-7f865545f8d0" />
-
-<img width="500" height="750" alt="Simulator Screenshot - iPhone 15 - 2025-09-18 at 19 05 53" src="https://github.com/user-attachments/assets/9f2fb113-9f8a-4c64-89e8-af0644883769" />
-
-<img width="500" height="750" alt="Simulator Screenshot - iPhone 15 - 2025-09-18 at 19 05 55" src="https://github.com/user-attachments/assets/597cb201-6229-4ac1-ba0b-85c43444bff9" />
 
 
+<img width="400" height="650" alt="Simulator Screenshot - iPhone 15 - 2025-09-18 at 19 06 03" src="https://github.com/user-attachments/assets/4424bc90-935a-48b1-baaa-c1566cc102c1" />
 
+<img width="400" height="650" alt="Simulator Screenshot - iPhone 15 - 2025-09-18 at 19 05 55" src="https://github.com/user-attachments/assets/afe758b9-be68-4cf9-accd-7c3216c8bf29" />
+
+<img width="400" height="650" alt="Simulator Screenshot - iPhone 15 - 2025-09-18 at 19 05 53" src="https://github.com/user-attachments/assets/90746b00-ea33-413f-b18c-2f5e3577a194" />
 
 
 # ahwaapp
