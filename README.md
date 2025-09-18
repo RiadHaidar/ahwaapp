@@ -135,11 +135,11 @@ This reactive approach ensures the UI always reflects the current application st
 Final Project:
 
 
-<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 15 - 2025-09-18 at 19 06 03" src="https://github.com/user-attachments/assets/cc8ae193-4b40-4f55-ba6c-7f865545f8d0" />
+<img width="800" height="1200" alt="Simulator Screenshot - iPhone 15 - 2025-09-18 at 19 06 03" src="https://github.com/user-attachments/assets/cc8ae193-4b40-4f55-ba6c-7f865545f8d0" />
 
-<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 15 - 2025-09-18 at 19 05 53" src="https://github.com/user-attachments/assets/9f2fb113-9f8a-4c64-89e8-af0644883769" />
+<img width="800" height="1200" alt="Simulator Screenshot - iPhone 15 - 2025-09-18 at 19 05 53" src="https://github.com/user-attachments/assets/9f2fb113-9f8a-4c64-89e8-af0644883769" />
 
-<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 15 - 2025-09-18 at 19 05 55" src="https://github.com/user-attachments/assets/597cb201-6229-4ac1-ba0b-85c43444bff9" />
+<img width="800" height="1200" alt="Simulator Screenshot - iPhone 15 - 2025-09-18 at 19 05 55" src="https://github.com/user-attachments/assets/597cb201-6229-4ac1-ba0b-85c43444bff9" />
 
 
 
